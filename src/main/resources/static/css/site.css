@@ -1,0 +1,17 @@
+body {
+	height: 100%;
+	padding-top: 125px;
+}
+
+section {
+	padding-top: 25px;
+}
+
+th {
+	color: white;
+	background: darkblue;
+}
+
+.navbar, .dropdown-menu {
+	background-color: darkblue;
+}
